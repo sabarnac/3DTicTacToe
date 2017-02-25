@@ -1,0 +1,23 @@
+--- END ---
+
+--- START ---
+
+0:19:13 28-12-2016 :: Initialized file logger
+0:19:13 28-12-2016 :: MAIN : Creating window handler
+0:19:13 28-12-2016 :: windowHandler : Initializing the main window and its handler
+0:19:14 28-12-2016 :: windowHandler : Reading game window related settings from file
+0:19:14 28-12-2016 :: windowHandler : Setting number of samples to be used for multi-sampling and anti-aliasing
+0:19:14 28-12-2016 :: windowHandler : Setting OpenGL version to be used to 3.3
+0:19:14 28-12-2016 :: windowHandler : Enabling forward compatibility ( Required for Macs apparently )
+0:19:14 28-12-2016 :: windowHandler : Setting OpenGL to use the core/main profile
+0:19:14 28-12-2016 :: windowHandler : Retrieving the primary monitor to be used to show the window in
+0:19:14 28-12-2016 :: windowHandler : Retrieve the video mode the primary monitor is using
+0:19:14 28-12-2016 :: windowHandler : Setting the gamma value for the primary monitor
+0:19:14 28-12-2016 :: windowHandler : Creating a window to use the primary monitor in it's currently set video mode resolution
+0:19:14 28-12-2016 :: windowHandler : Set the newly created window as the one to be used in context
+0:19:14 28-12-2016 :: windowHandler : Setting GLEW to use the experimental profile ( required )
+0:19:14 28-12-2016 :: windowHandler : Initializing GLEW
+0:19:14 28-12-2016 :: windowHandler : Saving the primary monitor's current video mode's resolution
+0:19:14 28-12-2016 :: windowHandler : Initialized the main window and its handler
+
+0:19:14 28-12-2016 :: MAIN : Could not initialize window. Exiting...
